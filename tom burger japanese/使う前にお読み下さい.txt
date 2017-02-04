@@ -1,0 +1,23 @@
+Tom Burger Japanese Version 2
+by Usmar A Padow
+
+このゲームはハンバーガー屋さんのシムレーション・ゲームです
+私はハンバガー屋で働いた事あり、このゲームのアイデアはそこから来ました。
+
+Windows XPやVistaではzipファイルを解凍しなくてもそのまま使えます。
+TomBurgerJPDist.zipにダブルクリックしてtom burger japanese.exeにダブルクリックして下さい。
+実行をクリックしてください。
+一分のビデオカードやパソコンの互換の問題で使えない場合もあります。ご了承お願いします。
+
+必要な物：
+Pentium PC 
+Windows 2000, Me, XP, Vista. 
+DirectX 8 (以上) で使えるビデオカード 32MB ビデオメモリ
+解像度 800x600 （以上）(16-bit) 画面の色. DirectX 8で使えるサウンドカード。
+DirectX 8.0 （以上）(新しいDirectXはthe Microsoftからダウンロードできます: http://www.microsoft.com/windows/directx/
+
+以上があっても使えない場合はドライバーを更新などしてからまたお試し下さい。
+
+ゲーム中は[F1}ボッタンを押せば遊び方があらわれます。
+
+連絡：usmpadow@yahoo.com
